@@ -1,0 +1,6 @@
+2021-09-16T06:27:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans S:\www\php\wordpress\wordpress\wp-includes\l10n.php à la ligne 1374
+
+2021-09-16T06:28:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans S:\www\php\wordpress\wordpress\wp-includes\blocks.php à la ligne 363
+
+2021-09-16T06:28:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans S:\www\php\wordpress\wordpress\wp-content\plugins\wordpress-seo\src\integrations\admin\social-templates-integration.php à la ligne 25
+
