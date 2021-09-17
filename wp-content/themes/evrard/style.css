@@ -1,0 +1,17 @@
+/*
+Theme Name: Evrard
+Description: premier wordpress theme
+Author: Sibomana Evrard
+Author URI: https://github.com/evrardsibo
+Version: 1.0
+Requires PHP: 7.0
+*/
+
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    color:blue;
+    text-align:center;
+}

@@ -4,7 +4,7 @@ Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns
 Requires at least: 4.7
 Requires PHP: 5.4
 Tested up to: 5.4.2
-Stable tag: 0.3
+Stable tag: 0.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -46,3 +46,6 @@ News-get includes support for WooCommerce and Contact From 7.
 
 = 0.1 =
 * Initial release.
+
+= 0.2		 =
+* Update theme URI.
