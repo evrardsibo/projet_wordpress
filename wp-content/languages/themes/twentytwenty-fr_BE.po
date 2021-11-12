@@ -11,7 +11,7 @@ msgstr ""
 "Language: fr_BE\n"
 "Project-Id-Version: Themes - Twenty Twenty\n"
 
-#: template-parts/content-cover.php:138 template-parts/content.php:48
+#: template-parts/content.php:48 template-parts/content-cover.php:138
 msgid "Pages:"
 msgstr "Pages&nbsp;:"
 

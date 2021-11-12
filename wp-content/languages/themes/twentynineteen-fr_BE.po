@@ -27,9 +27,9 @@ msgstr "Précédent"
 msgid "Next"
 msgstr "Suivant"
 
-#: image.php:52 template-parts/content/content-page.php:27
-#: template-parts/content/content-single.php:40
 #: template-parts/content/content.php:49
+#: template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40 image.php:52
 msgid "Pages:"
 msgstr "Pages&nbsp;:"
 
@@ -37,7 +37,7 @@ msgstr "Pages&nbsp;:"
 msgid "Skip to content"
 msgstr "Aller au contenu principal"
 
-#: functions.php:61 template-parts/header/site-branding.php:46
+#: template-parts/header/site-branding.php:46 functions.php:61
 msgid "Social Links Menu"
 msgstr "Menu des liens de réseaux sociaux"
 
@@ -57,11 +57,10 @@ msgstr "Apparemment, rien n&rsquo;a été trouvé à cette adresse. Essayez avec
 msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
 msgstr "Il semble que ce que vous cherchez est introuvable. Essayez avec une recherche."
 
+#. translators: %s: Post title. Only visible to screen readers.
 #. translators: %s: Post title.
-#. translators: %s: Post title. Only visible to screen readers.
-#. translators: %s: Post title. Only visible to screen readers.
-#: functions.php:225 template-parts/content/content-single.php:27
 #: template-parts/content/content.php:36
+#: template-parts/content/content-single.php:27 functions.php:225
 msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr "Continuer la lecture<span class=\"screen-reader-text\"> de &laquo;&nbsp;%s&nbsp;&raquo;</span>"
 
@@ -69,7 +68,6 @@ msgstr "Continuer la lecture<span class=\"screen-reader-text\"> de &laquo;&nbsp;
 msgid "Next Post"
 msgstr "Article suivant"
 
-#. translators: Used between list items, there is a space after the comma.
 #. translators: Used between list items, there is a space after the comma.
 #: inc/template-tags.php:86 inc/template-tags.php:98
 msgid ", "
